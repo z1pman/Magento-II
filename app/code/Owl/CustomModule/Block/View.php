@@ -8,7 +8,7 @@
 
 namespace Owl\CustomModule\Block;
 
-use Magento\Catalog\Model\Product;
+//use Magento\Catalog\Model\Product;
 
 
 
@@ -16,7 +16,7 @@ class View extends \Magento\Catalog\Block\Product\View
 {
 
     /**
-     * @return Product value
+     *
      */
     public function getCustomText()
     {
